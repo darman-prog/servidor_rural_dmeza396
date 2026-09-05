@@ -1,0 +1,9 @@
+tee .gitignore > /dev/null << 'EOF'
+*.log
+/etc/passwd
+/etc/shadow
+*.tar.gz
+*.tar. bz2
+*.tar
+EOF
+
