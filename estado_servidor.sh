@@ -28,3 +28,4 @@ fi
 } > "$ARCHIVO"
 
 echo "Reporte generado en: $ARCHIVO"
+# Revisado y validado el 2026-09-05
